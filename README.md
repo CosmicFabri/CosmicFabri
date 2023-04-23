@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, my name is Fabrizio Guzmán!
+### I'm currently in my first year studying Software Engineering at Universidad Autónoma de Campeche (UAC).
+### I aspire to be a ML/AI engineer, and also a game developer temporarily.
 
 <!--
 **CosmicFabri/CosmicFabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
